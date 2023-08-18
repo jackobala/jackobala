@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor web apaixonado por tecnologia e sempre em busca de aprimorar minhas habilidades. Com um forte interesse em Python e Django, adoro transformar ideias criativas em código.
+Sou um desenvolvedor web apaixonado por tecnologia e sempre em busca de aprimorar minhas habilidades. Com um forte interesse em Python e Django.
 
 ## Tecnologias e Ferramentas
 
