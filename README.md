@@ -18,7 +18,7 @@ Sou um desenvolvedor web apaixonado por tecnologia e sempre em busca de aprimora
 
 ## Projetos Destacados
 
-- [**Nome do Projeto 1**](https://github.com/seu-usuario/projeto1): em contrução...
+- [**Ladding page loja de games**] https://site-game-shop-murex.vercel.app/
 - [**Nome do Projeto 2**](https://github.com/seu-usuario/projeto2): em construção...
 
 ## Contato
