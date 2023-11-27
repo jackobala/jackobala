@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor web apaixonado por tecnologia e sempre em busca de aprimorar minhas habilidades. Com um forte interesse em Python e Django.
+Sou um desenvolvedor web apaixonado por tecnologia e sempre em busca de aprimorar minhas habilidades. Com um forte interesse em Front-end.
 
 ## Tecnologias e Ferramentas
 
@@ -19,7 +19,7 @@ Sou um desenvolvedor web apaixonado por tecnologia e sempre em busca de aprimora
 ## Projetos Destacados
 
 - [**Lading page the moon**] https://the-moon-page.vercel.app/
-- [**Nome do Projeto 2**](https://github.com/seu-usuario/projeto2): em construção...
+- [**Agenda Telefônica**] https://agenda-telefonica-sable.vercel.app/
 
 ## Contato
 
