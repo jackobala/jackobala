@@ -18,8 +18,9 @@ Sou um desenvolvedor web apaixonado por tecnologia e sempre em busca de aprimora
 
 ## Projetos Destacados
 
+- [**MemoryRank**] https://memory-rank.vercel.app/
 - [**Lading page the moon**] https://the-moon-page.vercel.app/
-- [**Agenda Telefônica**] https://agenda-telefonica-sable.vercel.app/
+
 
 ## Contato
 
