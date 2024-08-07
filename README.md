@@ -26,7 +26,7 @@ Valorizo muito o trabalho em equipe e sempre procuro ser proativo, buscando mane
 ## Projetos Destacados
 
 - [**MemoryRank**] https://memory-rank.vercel.app/
-- [**Lading page timeless**] https://timelessfrontend-e4ww77bnq-jacks-projects-54bc1ba4.vercel.app/
+- [**Lading page timeless**] https://timelessfrontend.vercel.app/
 
 
 ## Contato
